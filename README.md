@@ -2,7 +2,9 @@
 
 # Getting started
     - 1. $ git clone "the-url-to-this-repo"
-    - 2. $ uv sync
+    - 2. Navigate to the new local repo and activate your virtual environment
+    - 3. $ uv sync
+    - 4. Navigate to transformations.ipynb, change kernel and run to generate results
 
 # Theory questions
 
